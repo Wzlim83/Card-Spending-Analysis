@@ -2,7 +2,7 @@
 
 This project analyzes and visualizes card transactions from **2018 to 2020** to uncover meaningful insights into consumer spending behavior. It showcases my ability to work with **anonymized financial data**, apply **data cleaning**, perform **exploratory analysis**, and build **interactive dashboards** for business decision-making.
 
-> ✅ *This project is part of my portfolio to demonstrate skills in data analytics, financial analysis, and visualization.*
+> ✅ *This project is part of my portfolio to demonstrate skills in data analytics, transaction analysis, and visualization.*
 
 ---
 
