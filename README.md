@@ -1,6 +1,6 @@
 # 💼 Card Spending Analysis (Portfolio Project)
 
-This project analyzes and visualizes card transactions from **2018 to 2020** to uncover meaningful insights into consumer spending behavior. It showcases my ability to work with **anonymized financial data**, apply **data cleaning**, perform **exploratory analysis**, and build **interactive dashboards** for business decision-making.
+This project analyzes and visualizes card transactions from **2018 to 2020** to uncover meaningful insights into consumer spending behavior. It showcases my ability to work with **anonymised financial data**, apply **data cleaning**, perform **exploratory analysis**, and build **interactive dashboards** for business decision-making.
 
 > ✅ *This project is part of my portfolio to demonstrate skills in data analytics, transaction analysis, and visualization.*
 
@@ -38,7 +38,7 @@ This project analyzes and visualizes card transactions from **2018 to 2020** to 
 
 <img width="1683" height="793" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/d3014e37-d42e-4ea0-96e7-30beff395c6f" />
 
-> *Dashboard built with Tableau using anonymized or sample data.*
+> *Dashboard built with Tableau using anonymised or sample data.*
 
 ---
 
